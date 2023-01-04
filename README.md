@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**llleeeaaannn/llleeeaaannn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm a Frontend Developer from Dublin, Ireland.
 
-Here are some ideas to get you started:
+##### NOW
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ✨ Crafted last: [Medicle](https://www.medicle.net/) website
+- 📕 Currently reading: The Mythical Man-Month: Essays on Software Engineering by Fred Brooks
+
+##### BIO
+
+- 🏢 I'm currently self-teaching and developing **Full-Stack Applications**
+- ⚙️ I use daily: `.js`, `.html`, `.css`, `.svg`
+- 🌍 I'm mostly active within the **Javascript Community**
+- 💅 Designed: [Stockle.audio](https://www.stockle.org), [Spotlist.me](https://www.spotlist.net/) etc…
+- 🌱 Learning all about **Progressive Web Apps**
+- 💬 Ping me about **jobs**, **ideas**, **development**, **open source**
+- 📫 Reach me: piercefrank10@gmail.com
+- 🏋️‍♂️ Fun fact: I'm an avid powerlifter
