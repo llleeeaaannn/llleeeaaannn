@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm a Frontend Developer from Dublin, Ireland.
+#### I'm Frank, a Frontend Developer from Dublin, Ireland.
 
 ##### NOW
 
