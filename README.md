@@ -12,7 +12,7 @@
 - 🏢 I'm currently self-teaching and developing **Full-Stack Applications**
 - ⚙️ I use daily: `.js`, `.html`, `.css`, `.svg`
 - 🌍 I'm mostly active within the **Javascript Community**
-- 💅 Designed: [Stockle.audio](https://www.stockle.org), [Spotlist.me](https://www.spotlist.net/) etc…
+- 💅 Designed: [Stockle.org](https://www.stockle.org), [Spotlist.net](https://www.spotlist.net/) etc…
 - 🌱 Learning all about **Progressive Web Apps**
 - 💬 Ping me about **jobs**, **ideas**, **development**, **open source**
 - 📫 Reach me: piercefrank10@gmail.com
