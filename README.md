@@ -4,7 +4,7 @@
 
 ##### NOW
 
-- ✨ Crafted last: [Medicle](https://www.medicle.net/) website
+- ✨ Crafted last: [Medicle](https://www.medicle.net/)
 - 📕 Currently reading: The Mythical Man-Month: Essays on Software Engineering by Fred Brooks
 
 ##### BIO
