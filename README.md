@@ -14,7 +14,7 @@
 - 🌍 I'm mostly active within the **Javascript Community**
 - 💅 Designed: [Stockle.org](https://www.stockle.org), [Spotlist.net](https://www.spotlist.net/) etc…
 - 🌱 Learning all about **Progressive Web Apps**
-- 📫 Reach me: piercefrank10@gmail.com
 - 🖥 My Portfolio: [frankpierce.me](https://www.frankpierce.me/)
+- 📫 Reach me: piercefrank10@gmail.com
 - 💬 Ping me about **jobs**, **ideas**, **development**, **open source**
 - 🏋️‍♂️ Fun fact: I'm an avid powerlifter
