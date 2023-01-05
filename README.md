@@ -16,5 +16,5 @@
 - 🌱 Learning all about **Progressive Web Apps**
 - 📫 Reach me: piercefrank10@gmail.com
 - 🖥 My Portfolio: [frankpierce.me](https://www.frankpierce.me/)
-- - 💬 Ping me about **jobs**, **ideas**, **development**, **open source**
+- 💬 Ping me about **jobs**, **ideas**, **development**, **open source**
 - 🏋️‍♂️ Fun fact: I'm an avid powerlifter
