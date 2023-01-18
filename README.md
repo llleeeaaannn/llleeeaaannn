@@ -14,7 +14,7 @@
 - 💅 Designed: [Stockle.org](https://www.stockle.org), [Spotlist.net](https://www.spotlist.net/) etc…
 - 🌱 Learning all about **Progressive Web Apps**
 - 🖥 My Portfolio: [frankpierce.me](https://www.frankpierce.me/)
-- 📖 My Blogs: [Dev.to](https://dev.to/llleeeaaannn)
+- 📖 My Blogs: [https://medium.com/@piercefrank10](Medium), [Dev.to](https://dev.to/llleeeaaannn)
 - 📫 Reach me: piercefrank10@gmail.com
 - 💬 Ping me about **jobs**, **ideas**, **development**, **open source**
 - 🏋️‍♂️ Fun fact: I'm an avid powerlifter
