@@ -10,8 +10,7 @@
 ##### BIO
 
 - 🏢 I'm currently self-teaching and developing **Full-Stack Applications**
-- ⚙️ I use daily: `.js`, `.html`, `.css`, `.svg`
-- 🌍 I'm mostly active within the **Javascript Community**
+- ⚙️ My Tech Stack: **Javascript**, **React**, **Node**, **Express**, **Typescript**, **HTML**, **CSS**, **Tailwind**, **AWS**
 - 💅 Designed: [Stockle.org](https://www.stockle.org), [Spotlist.net](https://www.spotlist.net/) etc…
 - 🌱 Learning all about **Progressive Web Apps**
 - 🖥 My Portfolio: [frankpierce.me](https://www.frankpierce.me/)
