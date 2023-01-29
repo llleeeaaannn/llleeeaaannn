@@ -10,7 +10,7 @@
 ##### BIO
 
 - 🏢 I'm currently self-teaching and developing **Full-Stack Applications**
-- ⚙️ My Tech Stack: **Javascript**, **React**, **Node**, **Express**, **Typescript**, **HTML**, **CSS**, **Tailwind**, **AWS**
+- ⚙️ My Tech Stack: **Javascript**, **React**, **Node**, **Express**, **Typescript**, **HTML**, **CSS**, **Tailwind**, **SCSS**, **AWS**
 - 💅 Designed: [Stockle.org](https://www.stockle.org), [Spotlist.net](https://www.spotlist.net/) etc…
 - 🌱 Learning all about **Progressive Web Apps**
 - 🖥 My Portfolio: [frankpierce.me](https://www.frankpierce.me/)
