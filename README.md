@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm Frank, a Frontend Developer from Dublin, Ireland.
+#### I'm Frank, a Full-Stack Developer from Dublin, Ireland.
 
 ##### NOW
 
@@ -9,7 +9,7 @@
 
 ##### BIO
 
-- 🏢 I'm currently self-teaching and developing **Full-Stack Applications**
+- 🏢 I'm currently working as a Full-Stack developer at **B2E**
 - ⚙️ My Tech Stack: **Javascript**, **React**, **Node**, **Express**, **Typescript**, **HTML**, **CSS**, **Tailwind**, **SCSS**, **AWS**
 - 💅 Designed: [Spotlist](https://www.spotlist.net/), [Medicle](https://www.medicle.net/), [Scroll to Top React Router](https://www.npmjs.com/package/scroll-to-top-react-router) etc…
 - 🌱 Learning all about **Progressive Web Apps**
