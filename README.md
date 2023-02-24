@@ -9,7 +9,7 @@
 
 ##### BIO
 
-- 🏢 I'm currently working as a Full-Stack developer at **B2E**
+- 🏢 I'm currently working as a Full-Stack Developer at **B2E**
 - ⚙️ My Tech Stack: **Javascript**, **React**, **Node**, **Express**, **Typescript**, **HTML**, **CSS**, **Tailwind**, **SCSS**, **AWS**
 - 💅 Designed: [Spotlist](https://www.spotlist.net/), [Medicle](https://www.medicle.net/), [Scroll to Top React Router](https://www.npmjs.com/package/scroll-to-top-react-router) etc…
 - 🌱 Learning all about **Progressive Web Apps**
