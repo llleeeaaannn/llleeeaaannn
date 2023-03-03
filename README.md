@@ -6,6 +6,7 @@
 
 - ✨ Crafted last: [Stockle.org](https://www.stockle.org)
 - 📕 Currently reading: The Mythical Man-Month: Essays on Software Engineering by Fred Brooks
+- 💼 Working on a OpenAI API interface
 
 ##### BIO
 
