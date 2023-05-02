@@ -17,5 +17,4 @@
 - 🖥 My Portfolio: [frankpierce.me](https://www.frankpierce.me/)
 - 📖 My Blogs: [Medium](https://medium.com/@piercefrank10), [Dev.to](https://dev.to/llleeeaaannn)
 - 📫 Reach me: frank.pierceee@gmail.com
-- 💬 Ping me about **jobs**, **ideas**, **development**, **open source**
-- 🏋️‍♂️ Fun fact: I'm an avid powerlifter
+- 💬 Ping me about **ideas**, **development**, **open source**
