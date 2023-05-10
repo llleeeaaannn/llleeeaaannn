@@ -6,7 +6,7 @@
 
 - ✨ Crafted last: [Stockle.org](https://www.stockle.org)
 - 📕 Currently reading: The Mythical Man-Month: Essays on Software Engineering by Fred Brooks
-- 💼 Working on a OpenAI API interface
+- 💼 Working on a OpenAI API interface for generating job descriptions
 
 ##### BIO
 
@@ -17,4 +17,4 @@
 - 🖥 My Portfolio: [frankpierce.me](https://www.frankpierce.me/)
 - 📖 My Blogs: [Medium](https://medium.com/@piercefrank10), [Dev.to](https://dev.to/llleeeaaannn)
 - 📫 Reach me: frank.pierceee@gmail.com
-- 💬 Ping me about **ideas**, **development**, **open source**
+- 💬 Ping me about **AI**, **development**, **open source**
